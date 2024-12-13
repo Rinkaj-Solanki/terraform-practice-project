@@ -6,4 +6,8 @@
 
 <img width="779" alt="image" src="https://github.com/user-attachments/assets/768cbc26-5ef1-4907-8e18-5a0d75f1a381" />
 
+# getting output for public ip of ec2 instance
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/2d405275-9068-49cd-ad8f-1f4275b8db21" />
+
+
 
