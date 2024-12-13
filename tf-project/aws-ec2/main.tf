@@ -1,3 +1,9 @@
+variable "region" {
+  description = "This is the region name"
+  default = "us-east-1"
+  type = string
+}
+
 terraform {
   required_providers {
     aws = {
@@ -11,7 +17,7 @@ terraform {
 
 provider "aws" {
   # configuration options
-  region = "us-east-1"
+  region = var.region
 }
 
 resource "aws_instance" "ec2server" {
