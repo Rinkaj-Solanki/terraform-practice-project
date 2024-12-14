@@ -16,6 +16,11 @@
 # uploading sample file on s3 bucket 
 <img width="746" alt="image" src="https://github.com/user-attachments/assets/b3dc9104-1148-4b17-8602-15604719df36" />
 
+# uploading backend tf state to remote s3 bucket
+<img width="757" alt="image" src="https://github.com/user-attachments/assets/8d826d25-82b0-42e1-af6f-e62079163d41" />
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/41a4e331-43b4-4c0f-9536-8097dd55d7b3" />
+
+
 
 
 
