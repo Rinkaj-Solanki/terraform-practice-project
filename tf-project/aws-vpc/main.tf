@@ -57,6 +57,17 @@ resource "aws_route_table_association" "public-sub" {
 }
 
 
+#creating a ec2 instance and using subnet in it
+resource "aws_instance" "ec2_instance" {
+  ami = "ami-0453ec754f44f9a4a"
+  instance_type = "t2.micro"
+  subnet_id = aws_subnet.public-subnet.id
+
+  tags = {
+    Name = "EC2_instance_public_subnet"
+  }
+}
+
 
 
 
