@@ -13,5 +13,9 @@
 # creating s3 bucket
 <img width="752" alt="image" src="https://github.com/user-attachments/assets/ff8bca0b-867c-4096-9aa1-5cc455ed48f4" />
 
+# uploading sample file on s3 bucket 
+<img width="746" alt="image" src="https://github.com/user-attachments/assets/b3dc9104-1148-4b17-8602-15604719df36" />
+
+
 
 
