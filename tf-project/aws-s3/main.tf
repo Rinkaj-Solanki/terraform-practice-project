@@ -14,5 +14,10 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo-bucket" {
   bucket = "practice-tf-bucket"
+}
 
+resource "aws_s3_object" "bucket-data" {
+  bucket = aws_s3_bucket.demo-bucket.bucket
+  source = "./Sample.txt"
+  key = "data.txt"
 }
