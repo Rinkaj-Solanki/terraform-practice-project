@@ -10,4 +10,8 @@
 <img width="633" alt="image" src="https://github.com/user-attachments/assets/2d405275-9068-49cd-ad8f-1f4275b8db21" />
 
 
+# creating s3 bucket
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/ff8bca0b-867c-4096-9aa1-5cc455ed48f4" />
+
+
 
