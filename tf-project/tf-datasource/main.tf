@@ -18,6 +18,12 @@ data "aws_ami" "ami" {
   owners = ["amazon"]
 }
 
+data "aws_security_group" "security_group" {
+  tags = {
+    Name = "NginxSecurityGroup"
+  }
+}
+
 resource "aws_instance" "ec2server" {
   ami           = data.aws_ami.ami.id
   instance_type = "t2.micro"
