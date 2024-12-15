@@ -46,14 +46,10 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________
 
-# using datasource to fetch amazon ami id 
-<img width="502" alt="image" src="https://github.com/user-attachments/assets/154aa504-3092-4a2d-bd9e-7db92ecc278d" />
-
 # using datasource to fetch security group
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/f06e9b3c-bd1f-4094-86dc-118131c43953" />
 
 <img width="778" alt="image" src="https://github.com/user-attachments/assets/01413f34-28a3-43f8-a722-6ee413be3051" />
-
 
 
 
