@@ -44,6 +44,12 @@ ________________________________________________________________________________
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/9b243687-e008-487b-b707-897b24172f62" />
 
 
+______________________________________________________________________________________________________
+
+# using datasource to fetch amazon ami id 
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/154aa504-3092-4a2d-bd9e-7db92ecc278d" />
+
+
 
 
 
